@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "modid": "caverns_and_chasms",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "caverns_and_chasms:necromium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_necromium",
+      "amount": 144
+    }
+  ],
+  "heat_requirement": "heated"
+}

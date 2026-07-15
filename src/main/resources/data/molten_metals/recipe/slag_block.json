@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "molten_metals:slag"
+    }
+  },
+  "result": {
+    "id": "molten_metals:slag_block"
+  }
+}

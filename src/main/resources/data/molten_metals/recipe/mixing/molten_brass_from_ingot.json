@@ -1,0 +1,18 @@
+{
+  "conditions": [
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:ingots/brass"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_brass",
+      "amount": 144
+    }
+  ],
+  "heat_requirement": "heated"
+}

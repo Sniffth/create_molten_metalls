@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "model": "molten_metals:block/fluid"
+
+    }
+  }
+}

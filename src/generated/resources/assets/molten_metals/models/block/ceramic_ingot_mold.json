@@ -1,0 +1,6 @@
+{
+  "parent": "molten_metals:block/mold",
+  "textures": {
+    "mold": "molten_metals:block/ceramic_ingot_mold"
+  }
+}

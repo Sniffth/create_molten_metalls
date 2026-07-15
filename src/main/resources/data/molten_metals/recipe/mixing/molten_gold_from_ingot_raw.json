@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_gold"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_gold",
+      "amount": 144
+    },
+    {
+      "id": "molten_metals:slag"
+    }
+  ],
+  "heat_requirement": "heated"
+}

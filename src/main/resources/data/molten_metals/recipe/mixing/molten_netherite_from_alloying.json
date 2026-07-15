@@ -1,0 +1,34 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "molten_metals:molten_gold",
+      "amount": 576
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_netherite",
+      "amount": 144
+    },
+    {
+      "id": "molten_metals:slag",
+      "count": 4
+    }
+  ],
+  "heat_requirement": "superheated"
+}

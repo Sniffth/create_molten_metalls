@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "molten_metals:ingot_mold"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "molten_metals:molten_netherite",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "iв": "molten_metals:molten_netherite_ingot_mold"
+    }
+  ]
+}

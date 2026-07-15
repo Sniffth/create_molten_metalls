@@ -21,7 +21,7 @@ license="${mod_license}"
 [[mods]] #mandatory
 
 # The modid of the mod
-modId="${mod_id}" #mandatory
+modId="molten_metals" #mandatory
 
 # The version number of the mod
 version="${mod_version}" #mandatory
@@ -42,7 +42,7 @@ displayName="${mod_name}" #mandatory
 #credits="" #optional
 
 # The authors of the mod, displayed in the mod UI (optional)
-#authors=""
+authors="sniffth"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
@@ -93,3 +93,10 @@ Example mod description.
 # stop your mod loading on the server for example.
 #[features.${mod_id}]
 #openGLVersion="[3.2,)"
+
+[[dependencies.${mod_id}]]
+    modId="create"
+    type="required"
+    versionRange="[6.0.10,6.1.0)"
+    ordering="AFTER"
+    side="BOTH"

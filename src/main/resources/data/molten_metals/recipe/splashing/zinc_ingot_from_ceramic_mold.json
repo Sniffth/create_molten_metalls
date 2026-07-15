@@ -1,0 +1,17 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "molten_metals:molten_zinc_ceramic_ingot_mold"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:zinc_ingot"
+    },
+    {
+      "chance": 0.80,
+      "id": "molten_metals:ceramic_ingot_mold"
+    }
+  ]
+}

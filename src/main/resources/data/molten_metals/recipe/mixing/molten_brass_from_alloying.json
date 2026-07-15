@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "molten_metals:molten_copper",
+      "amount": 144
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "molten_metals:molten_zinc",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_brass",
+      "amount": 288
+    }
+  ],
+  "heat_requirement": "heated"
+}

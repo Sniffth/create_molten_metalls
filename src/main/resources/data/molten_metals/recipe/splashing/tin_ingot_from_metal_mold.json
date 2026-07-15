@@ -1,0 +1,16 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "molten_metals:molten_tin_ingot_mold"
+    }
+  ],
+  "results": [
+    {
+      "id": "molten_metals:tin_ingot"
+    },
+    {
+      "id": "molten_metals:ingot_mold"
+    }
+  ]
+}

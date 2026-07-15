@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "spelunkery:raw_iron_nugget"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_iron",
+      "amount": 16
+    },
+    {
+      "item": "molten_metals:slag_nugget"
+    }
+  ],
+  "heat_requirement": "heated"
+}

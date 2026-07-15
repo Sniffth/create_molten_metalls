@@ -1,0 +1,18 @@
+{
+  "conditions": [
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:nuggets/zinc"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_zinc",
+      "amount": 16
+    }
+  ],
+  "heat_requirement": "heated"
+}

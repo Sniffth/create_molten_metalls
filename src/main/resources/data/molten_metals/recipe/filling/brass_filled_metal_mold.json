@@ -1,0 +1,20 @@
+{
+  "conditions": [
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "molten_metals:ingot_mold"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "molten_metals:molten_brass",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "id": "molten_metals:molten_brass_ingot_mold"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/raw_lead"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_lead",
+      "amount": 1296
+    },
+    {
+      "id": "molten_metals:slag_block"
+    }
+  ],
+  "heat_requirement": "heated"
+}

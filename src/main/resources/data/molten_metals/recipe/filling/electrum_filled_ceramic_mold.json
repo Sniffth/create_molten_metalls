@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "molten_metals:ceramic_ingot_mold"
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "molten_metals:molten_electrum",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "id": "molten_metals:molten_electrum_ceramic_ingot_mold"
+    }
+  ]
+}

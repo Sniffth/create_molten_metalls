@@ -1,0 +1,40 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "caverns_and_chasms",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "molten_metals:molten_silver",
+      "amount": 576
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_necromium",
+      "amount": 144
+    },
+    {
+      "id": "molten_metals:slag",
+      "count": 4
+    }
+  ],
+  "heat_requirement": "heated"
+}

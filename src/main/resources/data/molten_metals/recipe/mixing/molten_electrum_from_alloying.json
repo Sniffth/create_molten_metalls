@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "fluid": "molten_metals:molten_silver",
+      "amount": 720
+    },
+    {
+      "type": "neoforge:single",
+      "fluid": "molten_metals:molten_gold",
+      "amount": 432
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_electrum",
+      "amount": 144
+    }
+  ],
+  "heat_requirement": "heated"
+}

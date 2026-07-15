@@ -1,0 +1,18 @@
+{
+  "conditions": [
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/brass"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_brass",
+      "amount": 1296
+    }
+  ],
+  "heat_requirement": "heated"
+}

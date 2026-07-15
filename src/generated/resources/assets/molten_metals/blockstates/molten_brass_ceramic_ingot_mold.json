@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "molten_metals:block/molten_brass_ceramic_ingot_mold",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "molten_metals:block/molten_brass_ceramic_ingot_mold"
+    },
+    "facing=east": {
+      "model": "molten_metals:block/molten_brass_ceramic_ingot_mold",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "molten_metals:block/molten_brass_ceramic_ingot_mold",
+      "y": 270
+    }
+  }
+}

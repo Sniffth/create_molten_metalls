@@ -1,0 +1,21 @@
+{
+  "conditions": [
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:raw_materials/zinc"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_zinc",
+      "amount": 144
+    },
+    {
+      "id": "molten_metals:slag"
+    }
+  ],
+  "heat_requirement": "heated"
+}

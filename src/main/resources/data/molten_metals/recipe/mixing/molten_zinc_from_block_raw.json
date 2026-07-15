@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/raw_zinc"
+    }
+  ],
+  "results": [
+    {
+      "type": "fluid",
+      "id": "molten_metals:molten_zinc",
+      "amount": 1296
+    },
+    {
+      "id": "molten_metals:slag_block"
+    }
+  ],
+  "heat_requirement": "heated"
+}
